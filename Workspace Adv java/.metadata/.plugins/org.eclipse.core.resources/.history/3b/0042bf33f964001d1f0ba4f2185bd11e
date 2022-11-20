@@ -1,0 +1,33 @@
+package Encapsulation;
+
+public class EncapsulationExample2{
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Employee e1 = new Employee();
+		
+		e1.setEmpId(121);
+
+		e1.print();
+	}
+}
+class Employee {
+	private int empid;
+	private String name;
+	private String contact;
+	
+	public int getEmpId() {
+		return empid;
+	}
+	public void setEmpId(int id) {
+		empid = id;
+	}
+	
+	// getter (Get the value)/ setter (Set the value)
+	public void print() {
+		System.out.println("id :" + empid);
+		System.out.println("name :" + name);
+		System.out.println("contact :" + contact);
+		
+		}
+	}

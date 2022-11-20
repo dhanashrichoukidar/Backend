@@ -1,0 +1,45 @@
+
+import java.util.Arrays;
+
+public class Marvel2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	int	a[]= {1,2,3,4,5};
+	int	b[]= {1,2,3,4,6};
+		Boolean c= false;
+		if(a.length==b.length) {
+			System.out.println("Arrays are equal");
+			
+			if(Arrays.equals(a, b)) {
+
+				System.out.println("values inside arrays are equal");
+				
+			}else {
+				System.out.println("values inside arrays are not equal");
+			}
+			
+		}
+		else {
+			System.out.println("Arrays are not equal");
+		}
+		
+		
+		// to compare values on specific indexes 
+		if(a[0]!=b[0]) {
+			
+			System.out.println("not equal");
+			System.out.println(c);
+		}else {
+			System.out.println("equal");
+			c= true;
+			System.out.println(c);
+		}
+			
+		
+	}
+	
+
+
+	}
+
