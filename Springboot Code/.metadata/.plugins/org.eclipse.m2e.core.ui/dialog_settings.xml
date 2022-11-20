@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Kshitija Choukidar\Desktop\java programs\springboot\sb-to-do-application"/>
+			<item value="C:\Users\Kshitija Choukidar\Desktop\java programs\springboot\sb-bidirection-relation"/>
+			<item value="C:\Users\Kshitija Choukidar\Desktop\java programs\springboot\sb-relation-mapping-1"/>
+			<item value="C:\Users\Kshitija Choukidar\Desktop\java programs\springboot\sb-jpa-query"/>
+			<item value="C:\Users\Kshitija Choukidar\Desktop\java programs\springboot\sb-jpa-curd"/>
+			<item value="C:\Users\Kshitija Choukidar\Desktop\java programs\springboot\sb-jpa-intro"/>
+			<item value="C:\Users\Kshitija Choukidar\Desktop\java programs\springboot\sb-rest-api-docs"/>
+			<item value="C:\Users\Kshitija Choukidar\Desktop\java programs\springboot\sb-rest-api-req-resp"/>
+			<item value="C:\Users\Kshitija Choukidar\Desktop\java programs\springboot\sb-rest-api-intro"/>
+			<item value="C:\Users\Kshitija Choukidar\Desktop\java programs\springboot\sb-ioc-intro"/>
+			<item value="C:\Users\Kshitija Choukidar\Desktop\java programs\springboot\sb-intro"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
